@@ -1,1 +1,1 @@
-print("welocme to pyhton programming")
+print("welocme to pyhton")
